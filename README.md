@@ -81,3 +81,6 @@ footer{text-align:center;padding:30px;color:#999;border-top:1px solid #333;margi
 </body>
 </html>
 
+<a href="https://wa.me/917558364115?text=Hello%20Vedya%20Wear,%20I%20want%20to%20order%20a%20T-shirt">
+BUY NOW
+</a>
